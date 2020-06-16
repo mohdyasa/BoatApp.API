@@ -1,0 +1,10 @@
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.DAL\bin\Debug\netcoreapp3.1\BoatManagementSystem.DAL.deps.json
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.DAL\bin\Debug\netcoreapp3.1\BoatManagementSystem.DAL.dll
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.DAL\obj\Debug\netcoreapp3.1\BoatManagementSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.DAL\obj\Debug\netcoreapp3.1\BoatManagementSystem.DAL.AssemblyInfo.cs
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.DAL\bin\Debug\netcoreapp3.1\BoatManagementSystem.DAL.runtimeconfig.json
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.DAL\bin\Debug\netcoreapp3.1\BoatManagementSystem.DAL.runtimeconfig.dev.json
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.DAL\bin\Debug\netcoreapp3.1\BoatManagementSystem.DAL.pdb
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.DAL\obj\Debug\netcoreapp3.1\BoatManagementSystem.DAL.dll
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.DAL\obj\Debug\netcoreapp3.1\BoatManagementSystem.DAL.pdb
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.DAL\obj\Debug\netcoreapp3.1\BoatManagementSystem.DAL.csprojAssemblyReference.cache

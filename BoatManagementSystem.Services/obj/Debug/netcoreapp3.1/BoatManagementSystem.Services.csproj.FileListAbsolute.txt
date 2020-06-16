@@ -1,0 +1,11 @@
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.Services\bin\Debug\netcoreapp3.1\BoatManagementSystem.Services.deps.json
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.Services\bin\Debug\netcoreapp3.1\BoatManagementSystem.Services.dll
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.Services\bin\Debug\netcoreapp3.1\BoatManagementSystem.Services.pdb
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.Services\bin\Debug\netcoreapp3.1\BoatManagementSystem.DAL.dll
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.Services\bin\Debug\netcoreapp3.1\BoatManagementSystem.DAL.pdb
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.Services\obj\Debug\netcoreapp3.1\BoatManagementSystem.Services.csprojAssemblyReference.cache
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.Services\obj\Debug\netcoreapp3.1\BoatManagementSystem.Services.AssemblyInfoInputs.cache
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.Services\obj\Debug\netcoreapp3.1\BoatManagementSystem.Services.AssemblyInfo.cs
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.Services\obj\Debug\netcoreapp3.1\BoatManagementSystem.Services.csproj.CopyComplete
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.Services\obj\Debug\netcoreapp3.1\BoatManagementSystem.Services.dll
+C:\Users\yasa.khan\source\repos\BoatManagementSystem\BoatManagementSystem.Services\obj\Debug\netcoreapp3.1\BoatManagementSystem.Services.pdb
